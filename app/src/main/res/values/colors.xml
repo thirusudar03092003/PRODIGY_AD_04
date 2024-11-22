@@ -1,0 +1,4 @@
+<resources>
+    <color name="player1_color">#FF0000</color>
+    <color name="player2_color">#0000FF</color>
+</resources>
